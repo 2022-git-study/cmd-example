@@ -1,5 +1,3 @@
 # cmd-example
 
 fsdjkfhas
-
-fsdf
